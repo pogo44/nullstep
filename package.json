@@ -1,0 +1,7 @@
+{
+  "name": "nullstep",
+  "version": "0.0.1",
+  "description": "software that predicts hesitation",
+  "main": "core/engine.ts",
+  "license": "MIT"
+}
